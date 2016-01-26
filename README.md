@@ -8,7 +8,7 @@
 
 These linting rules comes preconfigured as a [precommit hook](http://githooks.com/). This means it will not allow you nor anyone in your project to commit to the repository if any of these rules are invalid. Although it might look restrictive at the beginning offers many advantages later on as commented above.
 
-In order to do so we decided to rely on [Eslint](http://eslint.org/), a great Javascript linter by [Nicholas C. Zakas](https://twitter.com/slicknet) and [SASS-Lint](https://github.com/sasstools/sass-lint) for... yes! SASS linting.
+In order to do so we decided to rely on [Eslint](http://eslint.org/), a great JavaScript linter by [Nicholas C. Zakas](https://twitter.com/slicknet) and [SASS-Lint](https://github.com/sasstools/sass-lint) for... yes! SASS linting.
 
 #### TL;DR
 If you are wondering if this set of rules if for you here's a brief description. Keep reading to get a detailed description.
@@ -19,7 +19,7 @@ If you are wondering if this set of rules if for you here's a brief description.
 - Match the selector format set in the [Naming Convention](#naming-convention)
 - ...
 
-####**Your Javascript code must**
+####**Your JavaScript code must**
 - Be free of alert(), console.log() and Debugger.
 - Avoid references to Prototype.
 - Use dot notation, camel case and single quotes.
