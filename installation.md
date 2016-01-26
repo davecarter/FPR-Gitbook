@@ -1,1 +1,2 @@
-# First Chapter
+# Linter Installation
+This documentation is a step by step guide to add JS, SASS and React linter in **Sublime Text 3**. Feel free to use the code editor of your choice. Just make sure you can add *Eslint* and *SASS-Lint* config files.
