@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Installation](installation.md)
    * [Installing Sublime Text Package Control](01-Installation/02-sublime-plugins.md)
-   * [Installing Sublime Plugins](installing_sublime_plugins.md)
+   * [Installing Sublime Plugins](01-Installation/01-sublime-plugins.md)
 
