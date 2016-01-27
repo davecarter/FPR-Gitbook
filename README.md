@@ -38,3 +38,6 @@ In addition, ES6 syntax is fully supported thanks to BabelJS. Feel free to use t
 
 This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
 
+
+![image](GitHub-Mark.png = 100x)
+
