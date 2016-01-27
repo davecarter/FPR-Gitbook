@@ -35,3 +35,6 @@ If you are wondering if this set of rules if for you here's a brief description.
 In addition, ES6 syntax is fully supported thanks to BabelJS. Feel free to use the right transpiling level for your project. Set the [right value](https://babeljs.io/docs/usage/babelrc/) in `.babelrc` config file.
 
 ----
+
+This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
+
