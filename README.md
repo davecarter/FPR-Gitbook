@@ -38,6 +38,13 @@ In addition, ES6 syntax is fully supported thanks to BabelJS. Feel free to use t
 
 This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
 
-
-![image](GitHub-Mark.png = 100x)
-
+<table>
+    <tr>
+        <td width='10%'><img src='img/GitHub-Mark.png' width='90' /></td>
+        <td width='90%'> <a href='https://github.com/SUI-Components/frontend-pre-commit-rules'>Github Repository</a> </td>
+    </tr>
+    <tr>
+        <td width='10%'><img src='img/GitHub-Mark.png' width='90' /></td>
+        <td width='90%'> NPM </td>
+    </tr>
+</table>
