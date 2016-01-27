@@ -2,7 +2,7 @@
 
 ### The main goal of this set of rules is to establish healthy boundaries where cleaner code will be easier to share, more scalable, more readable and easier to maintain for everyone.
 
-![](SUI-engineers.png)
+![](img/SUI-engineers.png)
 
 ----
 
