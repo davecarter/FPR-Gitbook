@@ -6,7 +6,7 @@
 
 ----
 
-These linting rules comes preconfigured as a [precommit hook](http://githooks.com/). This means it will not allow you nor anyone in your project to commit to the repository if any of these rules are invalid. Although it might look restrictive at the beginning offers many advantages later on as commented above.
+These linting rules comes preconfigured as a [precommit hook](http://githooks.com/). This means it will not allow you nor anyone in your project to commit to the repository if any of these rules are invalid. Although it might look restrictive in the beginning it offers lots of advantages later on as commented above.
 
 To do so we decided to rely on [Eslint](http://eslint.org/), a great JavaScript linter by [Nicholas C. Zakas](https://twitter.com/slicknet) and [SASS-Lint](https://github.com/sasstools/sass-lint) for... yes! SASS linting.
 
