@@ -44,7 +44,7 @@ This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suie
         <td width='90%'> <a href='https://github.com/SUI-Components/frontend-pre-commit-rules'>Github Repository</a> </td>
     </tr>
     <tr>
-        <td width='10%'><img src='img/GitHub-Mark.png' width='90' /></td>
-        <td width='90%'> NPM </td>
+        <td width='10%'><img src='img/Npm-logo.png' width='90' /></td>
+        <td width='90%'> <a href='https://www.npmjs.com/package/@schibstedspain/frontend-pre-commit-rules'>NPM</a> </td>
     </tr>
 </table>
