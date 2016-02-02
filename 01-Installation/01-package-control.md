@@ -1,3 +1,8 @@
+### About SublimeLinter
+Package control is a Sublime Text package manager that makes it easy to find, install and keep packages up-to-date.
+
+The simplest method of installation is through the Sublime Text console. The console is accessed via the `ctrl+` shortcut or the `View > Show Console` menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console.
+
 ### Step 1 - Install Package Control in Sublime Text
 - Make sure you have Package Control installed in your copy of Sublime Text by pressing `cmd + Shift + p` and typing `Package Control: Install Package`.
 - If Package Control doesn't show up you need to install it:
