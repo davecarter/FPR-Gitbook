@@ -1,5 +1,5 @@
 # Developer environment Installation
-This document is a step by step guide to add a development environment to work using JS, SASS and React linting in **Sublime Text 3**. Feel free to use the code editor of your choice. Just make sure you can add *Eslint*, *SASS-Lint* and *Editorconfig* features.
+This is a guide to setup a development environment to work using JS, SASS and React linting in **Sublime Text 3**. Feel free to use the code editor of your choice. Just make sure you can add *Eslint*, *SASS-Lint* and *Editorconfig* features.
 
 ### Installing Node
 ![NodeJS](img/nodejs.png)
