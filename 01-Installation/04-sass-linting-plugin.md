@@ -12,7 +12,7 @@ $ sass-lint --version.
 ````
 Once you have installed and configured sass-lint, you can proceed to install the `SublimeLinter-contrib-sass-lint` plugin: 
 
-### Step 4 - Install SASS Linting plugin
+### Step 3 - Install SASS Linting plugin
 
 Please use Package Control to install the linter plugin. This will ensure that the plugin will be updated when new versions are available. If you want to install from source so you can modify the source code, you probably know what you are doing so we won’t cover that here.
 
