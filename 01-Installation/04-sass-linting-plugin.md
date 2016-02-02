@@ -30,4 +30,4 @@ SASS linting rules must be defined in a `.sass-lint.yml` file in the root direct
 
 ### Setting up your `.sass-lint.yml` example file
 
-Check out this [page](https://github.com/sasstools/sass-lint/blob/master/lib/config/sass-lint.yml).
+Check out this [demo config file](https://github.com/sasstools/sass-lint/blob/master/lib/config/sass-lint.yml).
