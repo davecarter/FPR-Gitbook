@@ -23,5 +23,7 @@ To install via Package Control, do the following:
 ![](../img/package-control.png)
 
 - Select `SublimeLinter-contrib-sass-lint` to install it.
-- Reopen Sublime Text if necessary.
-- SASS linting rules must be defined in a `.sass-lint.yml` file in the root directory.
+
+Reopen Sublime Text if necessary.
+
+SASS linting rules must be defined in a `.sass-lint.yml` file in the root directory.
