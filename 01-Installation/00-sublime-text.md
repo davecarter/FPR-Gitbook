@@ -13,8 +13,7 @@ Get it [here](https://www.sublimetext.com/3)
 ---
 
 #### Sublime Text 3 alternatives
-
-This is just a list including some other popular code editors and IDEs:
+This list includes some other popular code editors and IDEs:
 
 - [BBEdit](http://www.barebones.com/products/bbedit/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
@@ -26,4 +25,6 @@ This is just a list including some other popular code editors and IDEs:
 - [Eclipse](https://eclipse.org/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Notepad++](https://notepad-plus-plus.org/)
-- 
+- [Textmate](https://macromates.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
