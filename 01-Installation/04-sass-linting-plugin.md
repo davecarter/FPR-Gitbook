@@ -27,3 +27,7 @@ To install via Package Control, do the following:
 Reopen Sublime Text if necessary.
 
 SASS linting rules must be defined in a `.sass-lint.yml` file in the root directory.
+
+### Setting up your `.sass-lint.yml` example file
+
+Check out this [page](https://github.com/sasstools/sass-lint/blob/master/lib/config/sass-lint.yml).
