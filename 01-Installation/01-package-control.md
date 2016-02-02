@@ -1,6 +1,8 @@
-### Step 1 - Package Control
+### Step 1 - Install Package Control in Sublime Text
 - Make sure you have Package Control installed in your copy of Sublime Text by pressing `cmd + Shift + p` and typing `Package Control: Install Package`.
 - If Package Control doesn't show up you need to install it:
+
+![](../img/package-control.png)
 
 #### Sublime 3 Users:
 - Open Sublime Console: Menu View > Show Console.
