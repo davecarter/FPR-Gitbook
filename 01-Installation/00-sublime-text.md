@@ -15,11 +15,11 @@ Get it [here](https://www.sublimetext.com/3)
 #### Sublime Text 3 alternatives
 This list includes some other popular code editors and IDEs:
 
+- [Atom](https://atom.io/)
 - [BBEdit](http://www.barebones.com/products/bbedit/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PHPStorm](https://www.jetbrains.com/phpstorm/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
 - [Coda](https://panic.com/coda/)
 - [Eclipse](https://eclipse.org/)
