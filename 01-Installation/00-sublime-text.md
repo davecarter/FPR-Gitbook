@@ -17,7 +17,13 @@ Get it [here](https://www.sublimetext.com/3)
 This is just a list including some other popular code editors and IDEs:
 
 - [BBEdit](http://www.barebones.com/products/bbedit/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
+- [PHPStorm](https://www.jetbrains.com/phpstorm/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
+- [Coda](https://panic.com/coda/)
+- [Eclipse](https://eclipse.org/)
+- [Emacs](https://www.gnu.org/software/emacs/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- 
