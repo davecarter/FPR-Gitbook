@@ -6,6 +6,10 @@ Before using this plugin, you must ensure that `sass-lint` is installed on your 
 $ npm install -g sass-lint
 ````
 
+**Note**: This plugin requires sass-lint 1.2.0 or later. Check your version with:
+````
+$ sass-lint --version.
+````
 
 
 ### Step 4 - Install SASS Linting plugin
