@@ -54,12 +54,22 @@ If you need further information visit [NVM GitHub Page](https://github.com/creat
 
 NPM stands for Node Package Manager. Is a good practice updating NPM after installing Node the first time:
 
-````
+
+```
 $ sudo npm install npm -g
+```
 
-````
+Test your NPM version:
 
-dsa
+```
+$ npm --version
+```
+
+By the time of this publication current version is 3.3.12
+
+
+
+
 
 
 
