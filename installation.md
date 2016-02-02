@@ -65,7 +65,7 @@ Test your NPM version:
 $ npm --version
 ```
 
-By the time of this publication current version is 3.3.12
+By the time of this publication current version is 3.6.0
 
 
 
