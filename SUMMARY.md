@@ -6,5 +6,5 @@
    * [Installing Sublime Plugins](01-Installation/02-sublime-plugins.md)
    * [Install Sass Linting plugin](01-Installation/04-sass-linting-plugin.md)
    * [Installing Node-Sass Library](01-Installation/03-node-sass-library.md)
-   * Sublime Text code editor
+   * [Sublime Text code editor](01-Installation/00-sublime-text.md)
 
