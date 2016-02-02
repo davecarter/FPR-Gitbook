@@ -50,5 +50,19 @@ If you need further information visit [NVM GitHub Page](https://github.com/creat
 
 ### Updating NPM
 
+<img src='img/Npm-logo.png' width='150' />
+
+NPM stands for Node Package Manager. Is a good practice updating NPM after installing Node the first time:
+
+````
+$ sudo npm install npm -g
+
+````
+
+dsa
+
+
+
+
 
 
