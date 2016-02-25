@@ -8,5 +8,5 @@
    * [Install Sass Linting plugin](01-Installation/04-sass-linting-plugin.md)
 * Sass Linting rules
    * [BangFormat](02-Sass Linting Rules/bangformat.md)
-   * BorderZero
+   * [BorderZero](borderzero.md)
 
