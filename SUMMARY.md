@@ -37,4 +37,5 @@
    * [shorthand](02-Sass Linting Rules/shorthand.md)
    * [singleLinePerProperty](02-Sass Linting Rules/singlelineperproperty.md)
    * [singleLinePerSelector](02-Sass Linting Rules/singlelineperselector.md)
+   * spaceAfterComma
 
