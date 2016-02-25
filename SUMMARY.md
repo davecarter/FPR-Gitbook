@@ -18,4 +18,5 @@
    * [emptyLineBetweenBlocks](02-Sass Linting Rules/emptylinebetweenblocks.md)
    * [emptyRule](02-Sass Linting Rules/emptyrule.md)
    * [finalNewLine](02-Sass Linting Rules/finalnewline.md)
+   * hexLength
 
