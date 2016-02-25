@@ -52,5 +52,5 @@
    * [vendorPrefix](02-Sass Linting Rules/vendorprefix.md)
    * [zeroUnit](02-Sass Linting Rules/zerounit.md)
 * [JS Linting Rules](03-JS Linting Rules/js_linting_rules.md)
-   * Level of rule acceptance
+   * [Level of rule acceptance](03-JS Linting Rules/level_of_rule_acceptance.md)
 
