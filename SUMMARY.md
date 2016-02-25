@@ -63,4 +63,5 @@
    * [No Div Regex](03-JS Linting Rules/no_div_regex.md)
    * [No Dupe Keys](03-JS Linting Rules/no_dupe_keys.md)
    * [No Else Return](03-JS Linting Rules/no_else_return.md)
+   * No Empty
 
