@@ -94,5 +94,5 @@
    * [No Trailing Spaces](03-JS Linting Rules/no_trailing_spaces.md)
    * [No Use Before Define](03-JS Linting Rules/no_use_before_define.md)
    * [Break style](03-JS Linting Rules/break_style.md)
-   * Block Scoped Var
+   * [Block Scoped Var](03-JS Linting Rules/block_scoped_var.md)
 
