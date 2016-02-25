@@ -10,5 +10,5 @@
    * [BangFormat](02-Sass Linting Rules/bangformat.md)
    * [BorderZero](02-Sass Linting Rules/borderzero.md)
    * [colorVariable](02-Sass Linting Rules/colorVariable.md)
-   * [comment](02-Sass Linting Rules/comment.md/comment.md)
+   * [comment](02-Sass Linting Rules/comment.md)
 
