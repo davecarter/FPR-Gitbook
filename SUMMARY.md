@@ -82,5 +82,5 @@
    * [No Octal Escape](03-JS Linting Rules/no_octal_escape.md)
    * [No Multi Str](03-JS Linting Rules/no_multi_str.md)
    * [No New Wrappers](03-JS Linting Rules/no_new_wrappers.md)
-   * No New Object
+   * [No New Object](03-JS Linting Rules/no_new_object.md)
 
