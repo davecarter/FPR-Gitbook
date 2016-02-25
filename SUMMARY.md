@@ -15,4 +15,5 @@
    * [declarationOrder](02-Sass Linting Rules/declarationorder.md)
    * [duplicateProperty](02-Sass Linting Rules/duplicateproperty.md)
    * [elsePlacement](02-Sass Linting Rules/elseplacement.md)
+   * emptyLineBetweenBlocks
 
