@@ -29,5 +29,5 @@
    * [mergeableSelector](02-Sass Linting Rules/mergeableselector.md)
    * [nameFormat](02-Sass Linting Rules/nameformat.md)
    * [nestingDepth](02-Sass Linting Rules/nestingdepth.md)
-   * placeholderInExtend
+   * [placeholderInExtend](02-Sass Linting Rules/placeholderinextend.md)
 
