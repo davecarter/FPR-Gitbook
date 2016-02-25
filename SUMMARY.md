@@ -61,5 +61,5 @@
    * [No Control Regex](03-JS Linting Rules/no_control_regex.md)
    * [No Debugger](03-JS Linting Rules/no_debugger.md)
    * [No Div Regex](03-JS Linting Rules/no_div_regex.md)
-   * No Dupe Keys
+   * [No Dupe Keys](03-JS Linting Rules/no_dupe_keys.md)
 
