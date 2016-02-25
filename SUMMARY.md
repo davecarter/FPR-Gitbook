@@ -9,5 +9,5 @@
 * Sass Linting rules
    * [BangFormat](02-Sass Linting Rules/bangformat.md)
    * [BorderZero](02-Sass Linting Rules/borderzero.md)
-   * 02-Sass Linting Rules/ColorVariable
+   * [02-Sass Linting Rules/ColorVariable](02-Sass Linting Rules/colorVariable.md)
 
