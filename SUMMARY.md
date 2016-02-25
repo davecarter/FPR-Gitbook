@@ -73,5 +73,5 @@
    * [No Implied Eval](03-JS Linting Rules/no_implied_eval.md)
    * [No With](03-JS Linting Rules/no_with.md)
    * [No Fallthrough](03-JS Linting Rules/no_fallthrough.md)
-   * No Unreachable
+   * [No Unreachable](03-JS Linting Rules/no_unreachable.md)
 
