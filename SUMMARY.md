@@ -76,5 +76,5 @@
    * [No Unreachable](03-JS Linting Rules/no_unreachable.md)
    * [No Undef](03-JS Linting Rules/no_undef.md)
    * [No Undef Init](03-JS Linting Rules/no_undef_init.md)
-   * No Underscore Dangle
+   * [No Underscore Dangle](03-JS Linting Rules/no_underscore_dangle.md)
 
