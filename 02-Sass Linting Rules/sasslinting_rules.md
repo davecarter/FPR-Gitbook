@@ -1,0 +1,2 @@
+# Sass Linting rules
+
