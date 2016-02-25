@@ -30,5 +30,5 @@
    * [nameFormat](02-Sass Linting Rules/nameformat.md)
    * [nestingDepth](02-Sass Linting Rules/nestingdepth.md)
    * [placeholderInExtend](02-Sass Linting Rules/placeholderinextend.md)
-   * propertySortOrder
+   * [propertySortOrder](02-Sass Linting Rules/propertysortorder.md)
 
