@@ -26,4 +26,5 @@
    * [importPath](02-Sass Linting Rules/importpath.md)
    * [indentation](02-Sass Linting Rules/indentation.md)
    * [leadingZero](02-Sass Linting Rules/leadingzero.md)
+   * mergeableSelector
 
