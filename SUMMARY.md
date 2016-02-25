@@ -16,5 +16,5 @@
    * [duplicateProperty](02-Sass Linting Rules/duplicateproperty.md)
    * [elsePlacement](02-Sass Linting Rules/elseplacement.md)
    * [emptyLineBetweenBlocks](02-Sass Linting Rules/emptylinebetweenblocks.md)
-   * emptyRule
+   * [emptyRule](02-Sass Linting Rules/emptyrule.md)
 
