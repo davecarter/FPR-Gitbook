@@ -42,4 +42,5 @@
    * [spaceAfterPropertyName](02-Sass Linting Rules/spaceafterpropertyname.md)
    * [spaceBeforeBrace](02-Sass Linting Rules/spacebeforebrace.md)
    * [spaceBetweenParens](02-Sass Linting Rules/spacebetweenparens.md)
+   * stringQuotes
 
