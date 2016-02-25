@@ -96,5 +96,5 @@
    * [Break style](03-JS Linting Rules/break_style.md)
    * [Block Scoped Var](03-JS Linting Rules/block_scoped_var.md)
    * [Camel Case](03-JS Linting Rules/camel_case.md)
-   * Coma Dangle
+   * [Coma Dangle](03-JS Linting Rules/coma_dangle.md)
 
