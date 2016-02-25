@@ -23,5 +23,5 @@
    * [hexValidation](02-Sass Linting Rules/hexvalidation.md)
    * [idSelector](02-Sass Linting Rules/idselector.md)
    * [importantRule](02-Sass Linting Rules/importantrule.md)
-   * importPath
+   * [importPath](02-Sass Linting Rules/importpath.md)
 
