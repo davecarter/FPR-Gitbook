@@ -17,4 +17,5 @@
    * [elsePlacement](02-Sass Linting Rules/elseplacement.md)
    * [emptyLineBetweenBlocks](02-Sass Linting Rules/emptylinebetweenblocks.md)
    * [emptyRule](02-Sass Linting Rules/emptyrule.md)
+   * finalNewLine
 
