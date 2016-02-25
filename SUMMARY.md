@@ -67,5 +67,5 @@
    * [No Empty Character Class](03-JS Linting Rules/no_empty_character_class.md)
    * [No Eq Null](03-JS Linting Rules/no_eq_null.md)
    * [No Eval](03-JS Linting Rules/no_eval.md)
-   * No Ex Assign
+   * [No Ex Assign](03-JS Linting Rules/no_ex_assign.md)
 
