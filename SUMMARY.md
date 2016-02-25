@@ -79,5 +79,5 @@
    * [No Underscore Dangle](03-JS Linting Rules/no_underscore_dangle.md)
    * [No Unused Expressions](03-JS Linting Rules/no_unused_expressions.md)
    * [No Octal](03-JS Linting Rules/no_octal.md)
-   * No Octal Escape
+   * [No Octal Escape](03-JS Linting Rules/no_octal_escape.md)
 
