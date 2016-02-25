@@ -44,5 +44,5 @@
    * [spaceBetweenParens](02-Sass Linting Rules/spacebetweenparens.md)
    * [stringQuotes](02-Sass Linting Rules/stringquotes.md)
    * [trailingSemicolon](02-Sass Linting Rules/trailingsemicolon.md)
-   * trailingZero
+   * [trailingZero](02-Sass Linting Rules/trailingzero.md)
 
