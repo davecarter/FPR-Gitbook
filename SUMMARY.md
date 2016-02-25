@@ -84,4 +84,5 @@
    * [No New Wrappers](03-JS Linting Rules/no_new_wrappers.md)
    * [No New Object](03-JS Linting Rules/no_new_object.md)
    * [No Unused Vars](03-JS Linting Rules/no_unused_vars.md)
+   * No Script Url
 
