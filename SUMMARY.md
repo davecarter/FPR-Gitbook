@@ -75,5 +75,5 @@
    * [No Fallthrough](03-JS Linting Rules/no_fallthrough.md)
    * [No Unreachable](03-JS Linting Rules/no_unreachable.md)
    * [No Undef](03-JS Linting Rules/no_undef.md)
-   * No Undef Init
+   * [No Undef Init](03-JS Linting Rules/no_undef_init.md)
 
