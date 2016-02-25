@@ -1,4 +1,3 @@
-
 ### HexValidation
 
 Ensure hexadecimal colors are valid
