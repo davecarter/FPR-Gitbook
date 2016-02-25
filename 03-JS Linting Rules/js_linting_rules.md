@@ -1,0 +1,2 @@
+# JS Linting Rules
+
