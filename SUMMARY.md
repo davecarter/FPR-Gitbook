@@ -6,7 +6,7 @@
    * [Installing Package Control](01-Installation/01-package-control.md)
    * [Installing Sublime Plugins](01-Installation/02-sublime-plugins.md)
    * [Install Sass Linting plugin](01-Installation/04-sass-linting-plugin.md)
-* [Sass Linting rules](sass_linting_rules.md)
+* [Sass Linting rules](02-Sass Linting Rules/sasslinting_rules.md)
    * [BangFormat](02-Sass Linting Rules/bangformat.md)
    * [BorderZero](02-Sass Linting Rules/borderzero.md)
    * [colorVariable](02-Sass Linting Rules/colorVariable.md)
