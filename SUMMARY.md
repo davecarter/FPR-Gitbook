@@ -14,5 +14,5 @@
    * [debugStatement](02-Sass Linting Rules/debugstatement.md)
    * [declarationOrder](02-Sass Linting Rules/declarationorder.md)
    * [duplicateProperty](02-Sass Linting Rules/duplicateproperty.md)
-   * elsePlacement
+   * [elsePlacement](02-Sass Linting Rules/elseplacement.md)
 
