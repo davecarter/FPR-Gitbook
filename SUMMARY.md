@@ -21,4 +21,5 @@
    * [hexLength](02-Sass Linting Rules/hexlength.md)
    * [hexNotation](02-Sass Linting Rules/hexnotation.md)
    * [hexValidation](02-Sass Linting Rules/hexvalidation.md)
+   * idSelector
 
