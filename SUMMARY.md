@@ -93,4 +93,5 @@
    * [No Multi Spaces](03-JS Linting Rules/no_multi_spaces.md)
    * [No Trailing Spaces](03-JS Linting Rules/no_trailing_spaces.md)
    * [No Use Before Define](03-JS Linting Rules/no_use_before_define.md)
+   * Break style
 
