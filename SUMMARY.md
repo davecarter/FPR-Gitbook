@@ -89,5 +89,5 @@
    * [No Redeclare](03-JS Linting Rules/no_redeclare.md)
    * [No Regex Spaces](03-JS Linting Rules/no_regex_spaces.md)
    * [No Extra Semi](03-JS Linting Rules/no_extra_semi.md)
-   * No Irregular Whitespace
+   * [No Irregular Whitespace](03-JS Linting Rules/no_irregular_whitespace.md)
 
