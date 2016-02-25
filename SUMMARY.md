@@ -86,5 +86,5 @@
    * [No Unused Vars](03-JS Linting Rules/no_unused_vars.md)
    * [No Script Url](03-JS Linting Rules/no_script_url.md)
    * [No Proto](03-JS Linting Rules/no_proto.md)
-   * No Redeclare
+   * [No Redeclare](03-JS Linting Rules/no_redeclare.md)
 
