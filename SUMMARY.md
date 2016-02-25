@@ -72,5 +72,5 @@
    * [No Floating Decimal](03-JS Linting Rules/no_floating_decimal.md)
    * [No Implied Eval](03-JS Linting Rules/no_implied_eval.md)
    * [No With](03-JS Linting Rules/no_with.md)
-   * No Fallthrough
+   * [No Fallthrough](03-JS Linting Rules/no_fallthrough.md)
 
