@@ -91,4 +91,5 @@
    * [No Extra Semi](03-JS Linting Rules/no_extra_semi.md)
    * [No Irregular Whitespace](03-JS Linting Rules/no_irregular_whitespace.md)
    * [No Multi Spaces](03-JS Linting Rules/no_multi_spaces.md)
+   * No Trailing Spaces
 
