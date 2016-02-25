@@ -50,4 +50,5 @@
    * [urlFormat](02-Sass Linting Rules/urlformat.md)
    * [urlQuotes](02-Sass Linting Rules/urlquotes.md)
    * [vendorPrefix](02-Sass Linting Rules/vendorprefix.md)
+   * zeroUnit
 
