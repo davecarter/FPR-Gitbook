@@ -25,5 +25,5 @@
    * [importantRule](02-Sass Linting Rules/importantrule.md)
    * [importPath](02-Sass Linting Rules/importpath.md)
    * [indentation](02-Sass Linting Rules/indentation.md)
-   * leadingZero
+   * [leadingZero](02-Sass Linting Rules/leadingzero.md)
 
