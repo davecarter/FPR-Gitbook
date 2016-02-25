@@ -46,4 +46,5 @@
    * [trailingSemicolon](02-Sass Linting Rules/trailingsemicolon.md)
    * [trailingZero](02-Sass Linting Rules/trailingzero.md)
    * [unnecessaryMantissa](02-Sass Linting Rules/unnecessarymantissa.md)
+   * unnecessaryParentReference
 
