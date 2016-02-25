@@ -27,5 +27,5 @@
    * [indentation](02-Sass Linting Rules/indentation.md)
    * [leadingZero](02-Sass Linting Rules/leadingzero.md)
    * [mergeableSelector](02-Sass Linting Rules/mergeableselector.md)
-   * nameFormat
+   * [nameFormat](02-Sass Linting Rules/nameformat.md)
 
