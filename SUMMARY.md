@@ -78,4 +78,5 @@
    * [No Undef Init](03-JS Linting Rules/no_undef_init.md)
    * [No Underscore Dangle](03-JS Linting Rules/no_underscore_dangle.md)
    * [No Unused Expressions](03-JS Linting Rules/no_unused_expressions.md)
+   * No Octal
 
