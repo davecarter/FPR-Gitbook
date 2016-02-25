@@ -34,4 +34,5 @@
    * [propertySpelling](02-Sass Linting Rules/propertyspelling.md)
    * [selectorDepth](02-Sass Linting Rules/selectordepth.md)
    * [selectorFormat](02-Sass Linting Rules/selectorformat.md)
+   * shorthand
 
