@@ -53,5 +53,5 @@
    * [zeroUnit](02-Sass Linting Rules/zerounit.md)
 * [JS Linting Rules](03-JS Linting Rules/js_linting_rules.md)
    * [No Alert](03-JS Linting Rules/no_alert.md)
-   * No Array Constructor
+   * [No Array Constructor](03-JS Linting Rules/no_array_constructor.md)
 
