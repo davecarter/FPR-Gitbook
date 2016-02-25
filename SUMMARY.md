@@ -60,4 +60,5 @@
    * [No Console](03-JS Linting Rules/no_console.md)
    * [No Control Regex](03-JS Linting Rules/no_control_regex.md)
    * [No Debugger](03-JS Linting Rules/no_debugger.md)
+   * No Div Regex
 
