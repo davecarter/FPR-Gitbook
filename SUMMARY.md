@@ -56,5 +56,5 @@
    * [No Array Constructor](03-JS Linting Rules/no_array_constructor.md)
    * [No Caller](03-JS Linting Rules/no_caller.md)
    * [No Bitwise](03-JS Linting Rules/no_bitwise.md)
-   * No Catch Shadow
+   * [No Catch Shadow](03-JS Linting Rules/no_catch_shadow.md)
 
