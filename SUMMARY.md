@@ -58,4 +58,5 @@
    * [No Bitwise](03-JS Linting Rules/no_bitwise.md)
    * [No Catch Shadow](03-JS Linting Rules/no_catch_shadow.md)
    * [No Console](03-JS Linting Rules/no_console.md)
+   * No Control Regex
 
