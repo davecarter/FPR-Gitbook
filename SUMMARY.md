@@ -48,5 +48,5 @@
    * [unnecessaryMantissa](02-Sass Linting Rules/unnecessarymantissa.md)
    * [unnecessaryParentReference](02-Sass Linting Rules/unnecessaryparentreference.md)
    * [urlFormat](02-Sass Linting Rules/urlformat.md)
-   * urlQuotes
+   * [urlQuotes](02-Sass Linting Rules/urlquotes.md)
 
