@@ -7,5 +7,5 @@
    * [Installing Sublime Plugins](01-Installation/02-sublime-plugins.md)
    * [Install Sass Linting plugin](01-Installation/04-sass-linting-plugin.md)
 * Sass Linting rules
-   * BangFormat
+   * [BangFormat](02-Sass Linting Rules/bangformat.md)
 
