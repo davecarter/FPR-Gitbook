@@ -40,5 +40,5 @@
    * [spaceAfterComma](02-Sass Linting Rules/spaceaftercomma.md)
    * [spaceAfterPropertyColon](02-Sass Linting Rules/spaceafterpropertycolon.md)
    * [spaceAfterPropertyName](02-Sass Linting Rules/spaceafterpropertyname.md)
-   * spaceBeforeBrace
+   * [spaceBeforeBrace](02-Sass Linting Rules/spacebeforebrace.md)
 
