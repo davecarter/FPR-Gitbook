@@ -95,5 +95,5 @@
    * [No Use Before Define](03-JS Linting Rules/no_use_before_define.md)
    * [Break style](03-JS Linting Rules/break_style.md)
    * [Block Scoped Var](03-JS Linting Rules/block_scoped_var.md)
-   * Camel Case
+   * [Camel Case](03-JS Linting Rules/camel_case.md)
 
