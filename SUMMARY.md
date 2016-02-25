@@ -12,4 +12,5 @@
    * [colorVariable](02-Sass Linting Rules/colorVariable.md)
    * [comment](02-Sass Linting Rules/comment.md)
    * [debugStatement](02-Sass Linting Rules/debugstatement.md)
+   * declarationOrder
 
