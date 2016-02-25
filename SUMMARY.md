@@ -87,4 +87,5 @@
    * [No Script Url](03-JS Linting Rules/no_script_url.md)
    * [No Proto](03-JS Linting Rules/no_proto.md)
    * [No Redeclare](03-JS Linting Rules/no_redeclare.md)
+   * No Regex Spaces
 
