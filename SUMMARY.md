@@ -33,5 +33,5 @@
    * [propertySortOrder](02-Sass Linting Rules/propertysortorder.md)
    * [propertySpelling](02-Sass Linting Rules/propertyspelling.md)
    * [selectorDepth](02-Sass Linting Rules/selectordepth.md)
-   * selectorFormat
+   * [selectorFormat](02-Sass Linting Rules/selectorformat.md)
 
