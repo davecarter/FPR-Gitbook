@@ -65,4 +65,5 @@
    * [No Else Return](03-JS Linting Rules/no_else_return.md)
    * [No Empty](03-JS Linting Rules/no_empty.md)
    * [No Empty Character Class](03-JS Linting Rules/no_empty_character_class.md)
+   * No Eq Null
 
