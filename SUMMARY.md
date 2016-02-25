@@ -22,5 +22,5 @@
    * [hexNotation](02-Sass Linting Rules/hexnotation.md)
    * [hexValidation](02-Sass Linting Rules/hexvalidation.md)
    * [idSelector](02-Sass Linting Rules/idselector.md)
-   * importantRule
+   * [importantRule](02-Sass Linting Rules/importantrule.md)
 
