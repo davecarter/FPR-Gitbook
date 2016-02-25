@@ -32,4 +32,5 @@
    * [placeholderInExtend](02-Sass Linting Rules/placeholderinextend.md)
    * [propertySortOrder](02-Sass Linting Rules/propertysortorder.md)
    * [propertySpelling](02-Sass Linting Rules/propertyspelling.md)
+   * selectorDepth
 
