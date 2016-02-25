@@ -19,4 +19,5 @@
    * [emptyRule](02-Sass Linting Rules/emptyrule.md)
    * [finalNewLine](02-Sass Linting Rules/finalnewline.md)
    * [hexLength](02-Sass Linting Rules/hexlength.md)
+   * hexNotation
 
