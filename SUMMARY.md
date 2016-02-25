@@ -69,5 +69,5 @@
    * [No Eval](03-JS Linting Rules/no_eval.md)
    * [No Ex Assign](03-JS Linting Rules/no_ex_assign.md)
    * [No Func Assign](03-JS Linting Rules/no_func_assign.md)
-   * No Floating Decimal
+   * [No Floating Decimal](03-JS Linting Rules/no_floating_decimal.md)
 
