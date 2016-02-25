@@ -20,4 +20,5 @@
    * [finalNewLine](02-Sass Linting Rules/finalnewline.md)
    * [hexLength](02-Sass Linting Rules/hexlength.md)
    * [hexNotation](02-Sass Linting Rules/hexnotation.md)
+   * hexValidation
 
