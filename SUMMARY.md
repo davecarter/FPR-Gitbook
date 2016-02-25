@@ -35,4 +35,5 @@
    * [selectorDepth](02-Sass Linting Rules/selectordepth.md)
    * [selectorFormat](02-Sass Linting Rules/selectorformat.md)
    * [shorthand](02-Sass Linting Rules/shorthand.md)
+   * singleLinePerProperty
 
