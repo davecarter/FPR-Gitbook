@@ -74,5 +74,5 @@
    * [No With](03-JS Linting Rules/no_with.md)
    * [No Fallthrough](03-JS Linting Rules/no_fallthrough.md)
    * [No Unreachable](03-JS Linting Rules/no_unreachable.md)
-   * No Undef
+   * [No Undef](03-JS Linting Rules/no_undef.md)
 
