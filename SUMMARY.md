@@ -24,4 +24,5 @@
    * [idSelector](02-Sass Linting Rules/idselector.md)
    * [importantRule](02-Sass Linting Rules/importantrule.md)
    * [importPath](02-Sass Linting Rules/importpath.md)
+   * indentation
 
