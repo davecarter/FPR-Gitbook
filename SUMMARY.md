@@ -49,5 +49,5 @@
    * [unnecessaryParentReference](02-Sass Linting Rules/unnecessaryparentreference.md)
    * [urlFormat](02-Sass Linting Rules/urlformat.md)
    * [urlQuotes](02-Sass Linting Rules/urlquotes.md)
-   * vendorPrefix
+   * [vendorPrefix](02-Sass Linting Rules/vendorprefix.md)
 
