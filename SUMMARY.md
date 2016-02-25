@@ -45,5 +45,5 @@
    * [stringQuotes](02-Sass Linting Rules/stringquotes.md)
    * [trailingSemicolon](02-Sass Linting Rules/trailingsemicolon.md)
    * [trailingZero](02-Sass Linting Rules/trailingzero.md)
-   * unnecessaryMantissa
+   * [unnecessaryMantissa](02-Sass Linting Rules/unnecessarymantissa.md)
 
