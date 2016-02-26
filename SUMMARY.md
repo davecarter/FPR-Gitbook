@@ -116,4 +116,5 @@
    * [Wrap IIFE](03-JS Linting Rules/wrap_iife.md)
    * [Wrap RegEx](03-JS Linting Rules/wrap_regex.md)
 * [JSX Linting Rules](04-JSX Linting Rules/jsx_linting_rules.md)
+   * Display Name
 
