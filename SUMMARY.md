@@ -122,4 +122,5 @@
    * [JSX Uses Vars](04-JSX Linting Rules/jsx_uses_vars.md)
    * [No Did Mount Set State](04-JSX Linting Rules/no_did_mount_set_state.md)
    * [No Did Update Set State](04-JSX Linting Rules/no_did_update_set_state.md)
+   * No Multi Comp
 
