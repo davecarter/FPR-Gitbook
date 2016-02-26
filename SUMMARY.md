@@ -126,4 +126,5 @@
    * [React PropTypes](04-JSX Linting Rules/react_proptypes.md)
    * [React in JSX Scope](04-JSX Linting Rules/react_in_jsx_scope.md)
    * [Self Closing Comp](04-JSX Linting Rules/self_closing_comp.md)
+   * Wrap Multilines
 
