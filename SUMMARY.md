@@ -100,4 +100,5 @@
    * [Curly](03-JS Linting Rules/curly.md)
    * [Dot Notation](03-JS Linting Rules/dot_notation.md)
    * [Eqeqeq](03-JS Linting Rules/eqeqeq.md)
+   * Guard-for-in
 
