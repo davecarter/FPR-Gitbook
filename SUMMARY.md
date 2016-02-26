@@ -104,5 +104,5 @@
    * [JSX Quotes](03-JS Linting Rules/jsx_quotes.md)
    * [Key Spacing](03-JS Linting Rules/key_spacing.md)
    * [New Cap](03-JS Linting Rules/new_cap.md)
-   * New Parens
+   * [New Parens](03-JS Linting Rules/new_parens.md)
 
