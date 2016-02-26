@@ -103,5 +103,5 @@
    * [Guard-for-in](03-JS Linting Rules/guard-for-in.md)
    * [JSX Quotes](03-JS Linting Rules/jsx_quotes.md)
    * [Key Spacing](03-JS Linting Rules/key_spacing.md)
-   * New Cap
+   * [New Cap](03-JS Linting Rules/new_cap.md)
 
