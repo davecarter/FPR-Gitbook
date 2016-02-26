@@ -1,4 +1,7 @@
 # JSX Linting Rules
+
+![](../img/react-logo.png)
+
 React linting is provided by [Eslint-Plugin-React](https://github.com/yannickcr/eslint-plugin-react). We use JSX with React. These set of rules also has a different level of acceptance as JS:
 
 - **Allowed** > You can use whatever is specified in this rule.
