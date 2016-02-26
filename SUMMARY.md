@@ -102,5 +102,5 @@
    * [Eqeqeq](03-JS Linting Rules/eqeqeq.md)
    * [Guard-for-in](03-JS Linting Rules/guard-for-in.md)
    * [JSX Quotes](03-JS Linting Rules/jsx_quotes.md)
-   * Key Spacing
+   * [Key Spacing](03-JS Linting Rules/key_spacing.md)
 
