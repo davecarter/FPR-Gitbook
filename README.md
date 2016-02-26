@@ -36,6 +36,26 @@ In addition, ES6 syntax is fully supported thanks to BabelJS.
 
 ----
 
+## How to install Frontend Pre-Commit Rules in your project:
+
+Add a dev-dependency as follows:
+
+```javascript
+npm i @schibstedspain/frontend-pre-commit-rules --save-dev
+```
+
+#### Set a Precommit Hook
+
+Edit your `package.json` file and add the following:
+
+```javascript
+  "pre-commit": [
+    "lint"
+  ],
+````
+
+Now NPM will trigger a `lint script` every time 
+
 This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
 
 <table>
