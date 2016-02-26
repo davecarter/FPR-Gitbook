@@ -99,5 +99,5 @@
    * [Coma Dangle](03-JS Linting Rules/coma_dangle.md)
    * [Curly](03-JS Linting Rules/curly.md)
    * [Dot Notation](03-JS Linting Rules/dot_notation.md)
-   * Eqeqeq
+   * [Eqeqeq](03-JS Linting Rules/eqeqeq.md)
 
