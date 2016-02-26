@@ -119,4 +119,5 @@
    * [Display Name](04-JSX Linting Rules/display_name.md)
    * [No Undef](04-JSX Linting Rules/no_undef.md)
    * [JSX Uses React](04-JSX Linting Rules/jsx_uses_react.md)
+   * JSX Uses Vars
 
