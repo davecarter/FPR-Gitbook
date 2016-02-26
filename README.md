@@ -54,7 +54,17 @@ Edit your `package.json` file and add the following:
   ],
 ````
 
-Now NPM will trigger a `lint script` every time 
+Now NPM will trigger a `lint script` every time you do `git commit -m "my commit rocks"`.
+
+To set up this `lint script` add the following to your `package.json` config file:
+
+```javascript
+"scripts": {
+    "lint": "npm run lint:eslint && npm run lint:sass",
+    "lint:eslint": "eslint --ext=.jsx --ext=js ./src/ ./test/ ./docs/",
+    "lint:sass": "scss-lint src/"
+}
+```
 
 This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
 
