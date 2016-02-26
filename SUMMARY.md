@@ -106,5 +106,5 @@
    * [New Cap](03-JS Linting Rules/new_cap.md)
    * [New Parens](03-JS Linting Rules/new_parens.md)
    * [Quotes](03-JS Linting Rules/quotes.md)
-   * Quote-props
+   * [Quote-props](03-JS Linting Rules/quote-props.md)
 
