@@ -8,7 +8,13 @@ JSX is **not** HTML inside JS. Is *syntactic sugar* to make more readable your r
 
 React JSX transforms from an XML-like syntax into native JavaScript. XML elements, attributes and children are transformed into arguments that are passed to `React.createElement`.
 
-
+```javascript
+var Nav;
+// Input (JSX):
+var app = <Nav color="blue" />;
+// Output (JS):
+var app = React.createElement(Nav, {color:"blue"});
+```
 
 
 React linting is provided by [Eslint-Plugin-React](https://github.com/yannickcr/eslint-plugin-react). We use JSX with React. These set of rules also has a different level of acceptance as JS:
