@@ -117,5 +117,5 @@
    * [Wrap RegEx](03-JS Linting Rules/wrap_regex.md)
 * [JSX Linting Rules](04-JSX Linting Rules/jsx_linting_rules.md)
    * [Display Name](04-JSX Linting Rules/display_name.md)
-   * No Undef
+   * [No Undef](04-JSX Linting Rules/no_undef.md)
 
