@@ -66,7 +66,7 @@ To set up this `lint script` add the following to your `package.json` config fil
 }
 ```
 
-Here we define a `lint` task that will trigger two sub tasks: `npm:eslint` for JavaScript and JSX linting and `lint:sass` for Sass linting.
+Here we define a `lint` task that will trigger two sub tasks: `lint:eslint` for JavaScript and JSX linting and `lint:sass` for Sass linting.
 
 If you need more information to set up `eslint` or `scss-lint` go to the [Installation](installation.md) chapter:
 
