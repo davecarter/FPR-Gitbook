@@ -5,4 +5,4 @@ Sass is an extension of the CSS language. It allows you to use Variables, mixins
 
 To get more information about Sass visit [Sass Website](http://sass-lang.com/).
 
-Here you'll find a use case example for every SASS linting rule specified in this set:
+In the following pages you'll find a use case example for every SASS linting rule specified in this set.
