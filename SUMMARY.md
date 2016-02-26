@@ -108,5 +108,5 @@
    * [Quotes](03-JS Linting Rules/quotes.md)
    * [Quote-props](03-JS Linting Rules/quote-props.md)
    * [Radix](03-JS Linting Rules/radix.md)
-   * Semi
+   * [Semi](03-JS Linting Rules/semi.md)
 
