@@ -61,7 +61,7 @@ To set up this `lint script` add the following to your `package.json` config fil
 ```javascript
 "scripts": {
     "lint": "npm run lint:eslint && npm run lint:sass",
-    "lint:eslint": "eslint --ext=.jsx --ext=js ./src/ ./test/ ./docs/",
+    "lint:eslint": "eslint --ext=.jsx --ext=js ./src/",
     "lint:sass": "scss-lint src/"
 }
 ```
