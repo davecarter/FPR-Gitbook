@@ -113,5 +113,5 @@
    * [Strict](03-JS Linting Rules/strict.md)
    * [Use isNaN](03-JS Linting Rules/use_isnan.md)
    * [Valid typeof](03-JS Linting Rules/valid_typeof.md)
-   * Wrap IIFE
+   * [Wrap IIFE](03-JS Linting Rules/wrap_iife.md)
 
