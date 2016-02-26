@@ -109,4 +109,5 @@
    * [Quote-props](03-JS Linting Rules/quote-props.md)
    * [Radix](03-JS Linting Rules/radix.md)
    * [Semi](03-JS Linting Rules/semi.md)
+   * Space infix ops
 
