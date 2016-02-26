@@ -38,7 +38,7 @@ In addition, ES6 syntax is fully supported thanks to BabelJS.
 
 ## How to install Frontend Pre-Commit Rules in your project:
 
-Add a dev-dependency as follows:
+In your **NodeJS** based project add a dev-dependency as follows:
 
 ```javascript
 npm i @schibstedspain/frontend-pre-commit-rules --save-dev
@@ -65,6 +65,10 @@ To set up this `lint script` add the following to your `package.json` config fil
     "lint:sass": "scss-lint src/"
 }
 ```
+
+Here we define a `lint` task that will trigger two sub tasks: `npm:eslint` fro JavaScript and JSX linting and `lint:sass` for Sass linting.
+
+
 
 This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
 
