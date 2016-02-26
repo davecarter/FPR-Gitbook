@@ -52,7 +52,7 @@ Edit your `package.json` file and add the following:
   "pre-commit": [
     "lint"
   ],
-````
+```
 
 Now NPM will trigger a `lint script` every time you do `git commit -m "my commit rocks"`.
 
@@ -67,6 +67,20 @@ To set up this `lint script` add the following to your `package.json` config fil
 ```
 
 Here we define a `lint` task that will trigger two sub tasks: `lint:eslint` for JavaScript and JSX linting and `lint:sass` for Sass linting.
+
+Once your scripts are ready you can run them by:
+
+```javascript
+// Both, JS and Sass
+npm run lint
+
+// Sass only
+npm run lint:sass
+
+// JS and JSX only
+npm run lint:eslint
+```
+
 
 If you need more information to set up `eslint` or `scss-lint` go to the [Installation](installation.md) chapter:
 
