@@ -1,4 +1,4 @@
-# JSX Linting Rules
+# JSX Linting Rules in ReactJS
 
 ![](../img/react-logo.png)
 
