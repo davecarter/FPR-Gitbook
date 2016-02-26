@@ -111,5 +111,5 @@
    * [Semi](03-JS Linting Rules/semi.md)
    * [Space infix ops](03-JS Linting Rules/space_infix_ops.md)
    * [Strict](03-JS Linting Rules/strict.md)
-   * Use isNaN
+   * [Use isNaN](03-JS Linting Rules/use_isnan.md)
 
