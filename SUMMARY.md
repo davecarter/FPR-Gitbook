@@ -124,5 +124,5 @@
    * [No Did Update Set State](04-JSX Linting Rules/no_did_update_set_state.md)
    * [No Multi Comp](04-JSX Linting Rules/no_multi_comp.md)
    * [React PropTypes](04-JSX Linting Rules/react_proptypes.md)
-   * React in JSX Scope
+   * [React in JSX Scope](04-JSX Linting Rules/react_in_jsx_scope.md)
 
