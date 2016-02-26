@@ -1,4 +1,4 @@
-![](../js-logo.png)
+![](../img/js-logo.png)
 
 JavaScript is an scripting language based on ECMAScript and created by Brendan Eich.
 
