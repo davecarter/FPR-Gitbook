@@ -114,4 +114,5 @@
    * [Use isNaN](03-JS Linting Rules/use_isnan.md)
    * [Valid typeof](03-JS Linting Rules/valid_typeof.md)
    * [Wrap IIFE](03-JS Linting Rules/wrap_iife.md)
+   * Wrap RegEx
 
