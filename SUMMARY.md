@@ -101,4 +101,5 @@
    * [Dot Notation](03-JS Linting Rules/dot_notation.md)
    * [Eqeqeq](03-JS Linting Rules/eqeqeq.md)
    * [Guard-for-in](03-JS Linting Rules/guard-for-in.md)
+   * JSX Quotes
 
