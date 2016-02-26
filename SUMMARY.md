@@ -107,5 +107,5 @@
    * [New Parens](03-JS Linting Rules/new_parens.md)
    * [Quotes](03-JS Linting Rules/quotes.md)
    * [Quote-props](03-JS Linting Rules/quote-props.md)
-   * Radix
+   * [Radix](03-JS Linting Rules/radix.md)
 
