@@ -70,9 +70,12 @@ Here we define a `lint` task that will trigger two sub tasks: `npm:eslint` for J
 
 If you need more information to set up `eslint` or `scss-lint` go to the [Installation](installation.md) chapter:
 
+----
 
+### Contribute to this Open Source project
 
 This Open Source project is maintain by [@SUIEngineers](https://twitter.com/suiengineers).
+If you like this project and want to improve it don't hesitate to contribute by opening issues or pull request. In addition **you can show your love just by starring it** Great feedback is always welcome.
 
 <table>
     <tr>
