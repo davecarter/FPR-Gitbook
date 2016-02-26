@@ -123,4 +123,5 @@
    * [No Did Mount Set State](04-JSX Linting Rules/no_did_mount_set_state.md)
    * [No Did Update Set State](04-JSX Linting Rules/no_did_update_set_state.md)
    * [No Multi Comp](04-JSX Linting Rules/no_multi_comp.md)
+   * React PropTypes
 
